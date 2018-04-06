@@ -1,0 +1,164 @@
+.block {
+  padding: 30px;
+}
+
+.nav-pills {
+  font-size: 1.7em;
+  background-color: #f5de42;
+}
+
+body {
+  background-color: white;
+  font-family: Montserrat;
+  color: #36454f;
+}
+
+h1 {
+  padding: 0;
+  margin-top: 0px;
+  color: #36454f;
+  font-size: 8em;
+}
+
+h3 {
+  padding: 0;
+  margin-top: 0px;
+  color: #36454f;
+  font-size: 1.8em;
+}
+
+h2{
+  padding: 0;
+  margine-top: 0px;
+  color: #36454f;
+  font-size: 5em; 
+}
+
+h4{
+  padding: 0;
+  margine-top: 0px;
+  color: white;
+  font-size: 5em;
+}
+
+.btn-default {
+  background-color: transparent;
+  border-color: #36454f;
+  color: #36454f;
+  font-size: 1.7em;
+}
+
+.pageOne {
+  background: url("https://images.unsplash.com/photo-1482745637430-91c0bbcea3e1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c0e1624bfa6a8a9937276964b2747ef7&auto=format&fit=crop&w=2100&q=80");
+  background-size: cover;
+  height: 950px;
+}
+
+.pageTwo{
+  background: url("https://images.unsplash.com/photo-1516053256215-94022213b13c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=703a399feb6c6139d4e355122c0ef2cc&auto=format&fit=crop&w=1867&q=80");
+  background-size: cover;
+  height: 1000px;
+  padding-top: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-bottom: 2%
+}
+
+p{
+  font-size: 1.4em;
+}
+
+.aboutme{
+  background-color: transparent;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+img{
+  border-radius: 25px;
+  border-width: 5px white;
+  
+}
+
+.pageThree{
+  background: url("https://images.unsplash.com/photo-1489844097929-c8d5b91c456e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=98b1cd2ea86a7b4796275ef13aadafbf&auto=format&fit=crop&w=2104&q=80");
+  background-size: cover;
+  height: 900px;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 4%;
+}
+.pageFour{
+  background: url("https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=47d2b1f32cc05c976af4a39256e01cba&auto=format&fit=crop&w=2100&q=80");
+  background-size: cover;
+  height: 900px;
+  padding-top: 20%;
+  
+}
+
+.skillpage{
+  background-color: transparent;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.projectbut {
+  background-color: transparent;
+  border-color: #36454f;
+  color: #36454f;
+  font-size: 3em;
+}
+.oblock {
+  padding: 30px;
+  background-color: white;
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-radius: 25px;
+  opacity: .9;
+}
+
+.pageFive{
+  background: url("https://images.unsplash.com/photo-1497215842964-222b430dc094?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=48fe9f87e4a3344a46e80ddf5c3bdfa6&auto=format&fit=crop&w=2100&q=80");
+  background-size: cover;
+  height: 900px;
+  padding-top: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.box{
+  background-color: white;
+  border-radius: 25px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  opacity: .8;
+}
+
+h6{
+ margin-top: 0px;
+ color: #36454f;
+ font-size: 2em; 
+  
+}
+p1{
+  font-size: 1.3em;
+}
+
+.pageSix{
+  background: url(https://images.unsplash.com/photo-1488998427799-e3362cec87c3?ixlib=rb-0.3.5&s=6c4de93ecb1e1d0f6a71e9d7e30e39fb&auto=format&fit=crop&w=2100&q=80);
+  background-size: cover;
+  height: 300px;
+}
