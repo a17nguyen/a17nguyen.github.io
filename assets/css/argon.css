@@ -59,6 +59,29 @@
 {
     box-sizing: border-box;
 }
+@font-face {
+  font-family: 'Mekar Script';
+  src: url('fonts/mekar/MekarScript.ttf');
+  src: url('fonts/mekar/MekarScript.woff') format('woff');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: geometricPrecision;
+}
+
+#coandrew {
+  width: 100%;
+  height: 0px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  line-height: 0.08em;
+  left: 0;
+  font-family: 'Mekar Script', 'Youngblood';
+  font-size: 21em;
+  font-size: 21vw;
+  color: #fff;
+  z-index: 20;
+}
 
 html
 {
